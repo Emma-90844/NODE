@@ -1,0 +1,2 @@
+process.standout.write('prints to the console')
+note that objects have propertise and methods we can
